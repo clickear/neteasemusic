@@ -29,5 +29,10 @@
             <artifactId>tomcat-util</artifactId>
             <version>9.0.0.M10</version>
         </dependency>
+        <dependency>
+            <groupId>com.mashape.unirest</groupId>
+            <artifactId>unirest-java</artifactId>
+            <version>1.4.9</version>
+        </dependency>
     </dependencies>
 </project>
